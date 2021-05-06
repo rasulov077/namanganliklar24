@@ -3,6 +3,8 @@ body {
   font-size: 15px;
   line-height: 18px;
   font-family: 'Rubik', sans-serif;
+  padding: 0  ;
+  margin: 0   ;
 }
 
 .site-header {
@@ -447,3 +449,132 @@ body {
   font-weight: 500;
   color: #fff;
 }
+
+.container{
+  max-width: 1240px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.logo-carona{
+  align-items: center;
+  justify-content: center ;
+}
+
+.corana{
+ margin-left: 24px;
+}
+
+.enjoy-img{
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.enjoy-link h3{
+  padding-top: 25px;
+  margin-bottom: 0px;
+  margin-left: 19px;
+}
+
+.enjoy-link p{
+  margin-bottom: 40px;
+  margin-top: 10px;
+  margin-left: 19px;
+}
+
+.smile-img{
+  margin-top: 49px;
+  margin-bottom: 46px;
+}
+
+.smile-link{
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 38px;
+}
+
+.main-qismi{
+ height: 133px;
+}
+
+.class-p{
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.stop-img{
+  padding-top: 53px;
+  padding-right: 180px;
+}
+
+.prezident-img{
+  margin-top: 18px;
+  margin-right: 20px;
+}
+
+.karantin-img{
+  margin-top: 18px;
+  margin-right: 20px;
+}
+
+.sardoba-img{
+  margin-top: 18px;
+}
+
+.prezident-img h3{
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.karantin-img h3{
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.sardoba-img h3{
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.prokuror-img{
+  margin-top: 18px;
+  margin-right: 20px;
+}
+
+.prokuror-img h3{
+ margin-top: 11px;
+ margin-bottom: 11px;
+}
+
+.tez-yordam-img{
+  margin-top: 18px;
+  margin-right: 20px;
+}
+
+.tez-yordam-img h3{
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.stop-karantin-img{
+  margin-top: 18px;
+}
+
+.stop-karantin-img h3{
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
